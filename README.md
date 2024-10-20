@@ -20,3 +20,5 @@ Theme files used on kidscodeforce.com
 - content entry
 - sponsoring the project in any way
 - site design
+
+##  Contact me at hello@kidscodeforcecom to learn more or get involved.
